@@ -1,6 +1,7 @@
 <HTML>
 <HEAD><TITLE> EJ2-Direccion Red – Broadcast y Rango</TITLE></HEAD>
 
+<!--Pueba de edición-->
 <!--
 A partir de la IP y la máscara de red
 Obtener:
